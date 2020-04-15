@@ -272,23 +272,23 @@ defaults:
   - scope:
       path: ""
       type: team
-     values:
+    values:
       layout: single
-  # _research
+  # _research  
   - scope:
       path: ""
       type: research
-     values:
+    values:
       layout: single
-  # _publications
+  # _publications  
   - scope:
       path: ""
       type: publications
-     values:
+    values:
       layout: single
-  # _openings
+  # _openings  
   - scope:
       path: ""
       type: openings
-     values:
+    values:
       layout: single
