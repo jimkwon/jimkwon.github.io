@@ -16,6 +16,8 @@ Full CV ([link](https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogz
 • Postdoctoral Fellow/Researcher, Institute for Basic Science, Korea | Advisors: *Jae-Sung Woo* ([ORCID](http://orcid.org/0000-0001-9163-3433)) & *V. Narry Kim*([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim))  
 • B.S./Ph.D., Seoul National University, Korea | Advisor: *V. Narry Kim*([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim))   
 
+
+---
 > “Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”  
 -Albert Einstein, What Life Means to Einstein (1929)
 
