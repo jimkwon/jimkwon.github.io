@@ -7,8 +7,9 @@ author_profile: false
 > “Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”
 -Albert Einstein, What Life Means to Einstein (1929)
 
-![image-left](/assets/images/chul_crop250.jpg){: .align-left}  
+![image-right](/assets/images/chul_crop250.jpg){: .align-right}
 S. Chul KWON, PhD  
+
 chul at hku.hk  
 ORCID: 0000-0002-9519-5132<a href="https://orcid.org/0000-0002-9519-5132" class="btn btn--small">link</a>  
 Personal interview with IBS<a href="https://www.youtube.com/watch?v=y6hLUCl_yrQ&feature=youtu.be" class="btn btn--small">YouTube</a>  
