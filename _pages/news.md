@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "What's new"
+title: "What's new?"
 author_profile: false
 ---
 
