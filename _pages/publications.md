@@ -27,5 +27,6 @@ author_profile: false
 1 Han J, Pedersen JS[^2], **Kwon SC[^2]**, Belair CD[^2], Kim Y-K, Yeom K-H, Yang W-Y, Haussler D, Blelloch R, Kim VN (2009) Posttranscriptional Crossregulation between Drosha and DGCR8. **Cell** 136, 75-84 
 
 
+---
 > “For conducting successful experiments, you need three controls: positive control, negative control, and mind control.”  
 -Kay Yeom (2009)
