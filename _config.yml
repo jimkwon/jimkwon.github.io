@@ -289,6 +289,6 @@ defaults:
   # _openings
   - scope:
       path: ""
-      type: opennings
+      type: openings
      values:
       layout: single
