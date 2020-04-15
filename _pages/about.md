@@ -4,12 +4,11 @@ title: ""
 excerpt: # ""
 author_profile: false  
 ---
-![image-center](/assets/images/cat.png){: .align-center width="500px"}  
+![image-center](/assets/images/cat.png){: .align-center width="600px"}  
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
   
-## OPENINGS
-* Two PhD positions (as of 1 Apr 2020)
-{: .notice--warning}  
+**Open positions:** Two PhD positions (as of May 2020)
+{: .notice--danger}  
   
 ## PREVIOUS STUDIES  
 * We solved the first crystal structure of DROSHA (Cell 2016) and elucidated the mechanism of primary microRNA processing using high-throughput sequencing (Molecular Cell 2019).  
