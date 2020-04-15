@@ -4,7 +4,7 @@ title: "Team"
 excerpt: # ""
 author_profile: false
 ---
-![image-right](/assets/images/chul.jpg){: .align-right width="250px"}
+![image-right](/assets/images/chul_crop250.jpg){: .align-right width="250px"}
 **S. Chul KWON, PhD**  
 
 chul at hku.hk  
