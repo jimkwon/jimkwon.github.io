@@ -16,12 +16,12 @@ author_profile: false
 ## PREVIOUS STUDIES  
 **A comprehensive model for primary microRNA processing (2019)**  
 In the recent work, we tested ~40,000 primary microRNA variants using high-throughput sequencing and elucidated the comprehensive processing rules of DROSHA. Therefore, now we know how DROSHA accurately finds the cleavage site on primary microRNAs, and we can use this information for designing short hairpin RNAs (shRNAs) to regulate genes of interest specifically.  
-{% include video id="4ILGq0g3rbw" provider="youtube" caption="(Reused from Molecular Cell (2019) 73:505, with permission from Elsevier)" %}
+{% include video id="4ILGq0g3rbw" provider="youtube" caption="(Reused from Molecular Cell (2019) 73:505, with permission from Elsevier)" %}  
   
 
 **The first crystal structure of DROSHA (2016)**  
 MicroRNAs are ~22-nt-long RNAs that regulate the expression of specific mRNAs in diverse biological and pathological contexts. In the canonical pathway, a primary transcript of microRNA is sequentially cleaved by DROSHA and DICER to generate a mature microRNA. Understanding the processing mechanism of DROSHA is crucial because the DROSHA cleavage step determines the target specificity of microRNA. Although DROSHA had been identified as a microRNA biogenesis factor more than a decade ago, the structure of DROSHA was not available because no group had succeeded in the purification of a soluble and homogeneous DROSHA protein. In contrast, by using an optimized human cell expression system and deep knowledge on the biochemical property of DROSHA, we successfully purified the DROSHA protein and solved its crystal structure. The structure enabled us to start the complete understanding of the substrate recognition mechanism of DROSHA. The paper was praised by the Cell referees as “a very welcome addition to the microRNA field’s canon” and “an important milestone.”  
-{% include video id="KdyepCiTW54" provider="youtube" caption="(The Cell Video Abstract for the structure of DROSHA)" %}
+{% include video id="KdyepCiTW54" provider="youtube" caption="(The Cell Video Abstract for the structure of DROSHA)" %}  
   
   
 **Whole RNA-binding protein repertoire of embryonic stem cells (2013)**  
