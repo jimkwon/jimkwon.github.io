@@ -4,15 +4,11 @@ title: ""
 excerpt: # ""
 author_profile: false  
 ---
-![image-center](/assets/images/cat.png){: .align-center width="600px"}  
+![image-center](/assets/images/cat2_crop.png){: .align-center width="600px"}  
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
   
 **Open positions:** Two PhD positions (as of May 2020)
-{: .notice--danger}  
-  
-## PREVIOUS STUDIES  
-* We solved the first crystal structure of DROSHA (Cell 2016) and elucidated the mechanism of primary microRNA processing using high-throughput sequencing (Molecular Cell 2019).  
-* We provided whole RNA-binding protein repertoire of embryonic stem cells (Nature Structural and Molecular Biology 2013).  
+{: .notice--info}  
   
 School of Biomedical Sciences  
 LKS Faculty of Medicine  
