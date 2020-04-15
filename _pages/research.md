@@ -10,7 +10,7 @@ author_profile: false
 * Small RNA-based high-throughput screening (coupled with CRISPR systems)  
 * Ribonucleases in innate immune responses  
 * Transposases and transposable elements for genome engineering  
-* (Future) viral noncoding RNAs and their use in RNA therapeutics {: .notice}
+* (Future) viral noncoding RNAs and their use in RNA therapeutics 
   
     
 ## PREVIOUS STUDIES  
