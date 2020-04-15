@@ -267,22 +267,28 @@ compress_html:
 
 
 # Defaults
-defaults:
-  # _posts
+defaults:  
+  # _team
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: # true
-      share: false
-      related: false
-  # _pages
-  - scope:
-      path: ""
-      type: pages
+      type: team
      values:
       layout: single
-      
+  # _research
+  - scope:
+      path: ""
+      type: research
+     values:
+      layout: single
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+     values:
+      layout: single
+  # _openings
+  - scope:
+      path: ""
+      type: opennings
+     values:
+      layout: single
