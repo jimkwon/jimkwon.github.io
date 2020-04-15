@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /about/
 title: ""
 excerpt: # ""
 author_profile: false
 redirect_from: 
-  - /about/  
+  - /  
 ---
 ![image-center](/assets/images/cat2.png){: .align-center}
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**
