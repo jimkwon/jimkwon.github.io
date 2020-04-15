@@ -4,9 +4,6 @@ title: "Team"
 excerpt: # ""
 author_profile: false
 ---
-> “Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”
--Albert Einstein, What Life Means to Einstein (1929)
-
 ![image-right](/assets/images/chul_crop250.jpg){: .align-right}
 S. Chul KWON, PhD  
 
@@ -18,4 +15,7 @@ Full CV<a href="https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogz
 • Assistant Professor, The University of Hong Kong  
 • Postdoctoral Fellow/Researcher, Institute for Basic Science, Korea | Advisors: Jae-Sung Woo<a href="http://orcid.org/0000-0001-9163-3433" class="btn btn--small">ORCID</a> & V. Narry Kim<a href="https://en.wikipedia.org/wiki/V._Narry_Kim" class="btn btn--small">Wikipedia</a>  
 • B.S./Ph.D., Seoul National University, Korea | Advisor: V. Narry Kim<a href="https://en.wikipedia.org/wiki/V._Narry_Kim" class="btn btn--small">Wikipedia</a>  
+
+> “Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”  
+-Albert Einstein, What Life Means to Einstein (1929)
 
