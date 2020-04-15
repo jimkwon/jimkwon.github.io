@@ -4,7 +4,7 @@ title: ""
 excerpt: # ""
 author_profile: false  
 ---
-![image-center](/assets/images/cat2.png){: .align-center}  
+![image-center](/assets/images/cat.png){: .align-center}  
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
   
 > OPENINGS  
