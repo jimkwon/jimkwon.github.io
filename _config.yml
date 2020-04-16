@@ -97,8 +97,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. *-Albert Einstein, What Life Means to Einstein (1929)*"
   location         : "?/F, Laboratory Block, <br />
-                      21 Sassoon Road, Pokfulam, <br />
-                      Hong Kong"   
+                      &nbsp;&nbsp;&nbsp;21 Sassoon Road, Pokfulam, <br />
+                      &nbsp;&nbsp;&nbsp;Hong Kong"   
   email            : #
   links:
     - label: "852-1111-0000"
