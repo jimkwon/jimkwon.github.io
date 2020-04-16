@@ -101,8 +101,8 @@ author:
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong"   
   email            : #
   links:
-    - label: "852-1111-0000"
-      icon: "fab fa-fw fa-mobile"
+    - label: "Tel: 852-1111-0000"
+      icon: "fab fa-fw fa-link"
       url: ""
     - label: "chul at hku.hk"
       icon: "fas fa-fw fa-envelope-square"
