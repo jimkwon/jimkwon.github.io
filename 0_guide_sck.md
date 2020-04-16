@@ -82,9 +82,9 @@ jimkwon@uracil:~/homepage/chullab.github.io$
 
 ## Useful documents
 
-https://kramdown.gettalong.org/quickref.html#block-attributes
-https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
-https://jekyllrb.com/docs/collections/
-https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
-https://github.com/mmistakes/minimal-mistakes/tree/master/test/_portfolio
-https://learn.cloudcannon.com/jekyll/photo-gallery/
+https://kramdown.gettalong.org/quickref.html#block-attributes  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet  
+https://jekyllrb.com/docs/collections/  
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/  
+https://github.com/mmistakes/minimal-mistakes/tree/master/test/_portfolio  
+https://learn.cloudcannon.com/jekyll/photo-gallery/  
