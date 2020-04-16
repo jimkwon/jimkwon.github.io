@@ -12,14 +12,13 @@ main:
   - title: "Publications"
     url: /publications/
   
+  - title: "Photo"
+    url: /photo/   
+
   - title: "News"
     url: /news/   
-    
+
   - title: "Openings"
     url: /openings/   
 
-  - title: "Team2"
-    url: /team2/   
-
-  - title: "Photo"
-    url: /photo/   
+  
