@@ -1,5 +1,4 @@
 ---
-permalink: /team2/
 title: Portfolio
 author_profile: false
 layout: collection
