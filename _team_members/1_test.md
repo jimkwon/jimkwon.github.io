@@ -5,6 +5,5 @@ image: /assets/images/chul_crop250.jpg
 ---
 **Jihye Lee**  
 
-chul at hku.hk  
- 
+chul at hku.hk   
 • B.S., Seoul National University, Korea  
