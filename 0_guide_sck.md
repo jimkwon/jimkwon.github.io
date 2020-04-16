@@ -88,3 +88,7 @@ https://jekyllrb.com/docs/collections/
 https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/  
 https://github.com/mmistakes/minimal-mistakes/tree/master/test/_portfolio  
 https://learn.cloudcannon.com/jekyll/photo-gallery/  
+
+## Linkiing domains
+hosting.kr, Google account, 2020.04.16
+https://mishka.kr/2020/01/10/github-domain/
