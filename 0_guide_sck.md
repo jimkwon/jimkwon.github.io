@@ -57,7 +57,7 @@ Resolving deltas: 100% (1102/1102), done.
 jimkwon@uracil:~/homepage$ ls
 chullab.github.io
 
-# I modified some files
+// I modified some files
 
 jimkwon@uracil:~/homepage/chullab.github.io$ git add *
 jimkwon@uracil:~/homepage/chullab.github.io$ git commit -m "test1"
