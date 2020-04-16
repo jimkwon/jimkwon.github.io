@@ -3,16 +3,10 @@ permalink: /team/
 title: "Team"
 excerpt: # ""
 author_profile: false
-layout: collection
-collection: portfolio
-entries_layout: grid
 ---
 
-
-## Group leader
-
+![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"} | 
 **S. Chul KWON, PhD**  
-![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"}
 
 chul at hku.hk  
 Full CV ([link](https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogzCGlcWsDIvN5EXYg/edit))  
@@ -27,12 +21,17 @@ Personal interview with IBS ([YouTube](https://www.youtube.com/watch?v=y6hLUCl_y
 
 
 ## Post graduate students 
+
 ---
+
+![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"}
 **Example 1**
-![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"}
 abc at hku.hk
+
 ---
-**Example 2**
+
 ![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"}
+**Example 2**
 abc at hku.hk
+
 ---
