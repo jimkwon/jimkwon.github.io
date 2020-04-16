@@ -3,6 +3,9 @@ permalink: /team/
 title: "Team"
 excerpt: # ""
 author_profile: false
+layout: collection
+collection: portfolio
+entries_layout: grid
 ---
 ![image-right](/assets/images/chul_crop250.jpg){: .align-right width="250px"}
 **S. Chul KWON, PhD**  
