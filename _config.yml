@@ -272,6 +272,8 @@ compress_html:
 collections:
   team_members:
     output: true    
+    order:
+      - 0_chul.md
 
 # Defaults
 defaults:  
