@@ -276,3 +276,13 @@ defaults:
     values:
       layout: single  
       classes: wide
+      share: false     
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: collection
+      classes: wide
+      share: false
