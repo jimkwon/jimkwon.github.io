@@ -8,7 +8,8 @@ author_profile: true
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
   
 > **Open positions:** Two PhD positions (as of May 2020)
-{: .text-center}
+
+---
 
 School of Biomedical Sciences  
 LKS Faculty of Medicine  
