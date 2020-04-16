@@ -8,11 +8,11 @@ collection: portfolio
 entries_layout: grid
 ---
 
----
+
 ## Group leader
 
 **S. Chul KWON, PhD**  
-![image-right](/assets/images/chul_crop250.jpg){: .align-right width="250px"}
+![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"}
 
 chul at hku.hk  
 Full CV ([link](https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogzCGlcWsDIvN5EXYg/edit))  
@@ -25,14 +25,14 @@ Personal interview with IBS ([YouTube](https://www.youtube.com/watch?v=y6hLUCl_y
 • B.S./Ph.D., Seoul National University, Korea  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: *V. Narry Kim* ([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim))   
 
----
+
 ## Post graduate students 
-
+---
 **Example 1**
-![image-right](/assets/images/chul_crop250.jpg){: .align-right width="250px"}
+![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"}
 abc at hku.hk
-
+---
 **Example 2**
-![image-right](/assets/images/chul_crop250.jpg){: .align-right width="250px"}
+![image-left](/assets/images/chul_crop250.jpg){: .align-left width="250px"}
 abc at hku.hk
-
+---
