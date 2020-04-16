@@ -1,10 +1,8 @@
 ---
-name: S. Chul KWON
+name: S. Chul KWON, PhD
 position: Group leader
 image: /assets/images/chul_crop250.jpg
 ---
-**S. Chul KWON, PhD**  
-
 chul at hku.hk  
 Full CV ([link](https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogzCGlcWsDIvN5EXYg/edit))  
 ORCID: 0000-0002-9519-5132 ([link](https://orcid.org/0000-0002-9519-5132))  
