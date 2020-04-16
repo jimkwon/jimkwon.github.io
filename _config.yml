@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Chul KWON Lab"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "RNA Biology at HKU" # site tagline that appears below site title in masthead
 name                     : "Chul KWON Lab"
 description              : "RNA Biology at HKU"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Your Name"
+  name             : Contact to Chul# "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
   location         : # "Somewhere"
-  email            :
+  email            : chul at hku.hk
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
