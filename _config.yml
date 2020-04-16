@@ -95,10 +95,10 @@ analytics:
 author:
   name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. *-Albert Einstein, What Life Means to Einstein (1929)*"
+  bio              : "We imagine something great."
   location         : "?/F, Laboratory Block, <br />
-                      &nbsp;&nbsp;&nbsp;21 Sassoon Road, Pokfulam, <br />
-                      &nbsp;&nbsp;&nbsp;Hong Kong"   
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21 Sassoon Road, Pokfulam, <br />
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong"   
   email            : #
   links:
     - label: "852-1111-0000"
