@@ -3,7 +3,6 @@ permalink: /photo/
 title: "Photo"
 excerpt: # ""
 author_profile: false
-
 gallery:
   - url: /assets/images/nsmb.jpg
     image_path: /assets/images/nsmb.jpg
