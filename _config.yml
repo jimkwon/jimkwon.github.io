@@ -95,16 +95,16 @@ analytics:
 author:
   name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
-  location         : "Hong Kong, klfajsdklfjasklfjsklfjskl fsa" 
-  email            : chul at hku.hk
+  bio              : "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. *Albert Einstein, What Life Means to Einstein (1929)*"
+  location         : "?/F, Laboratory Block, 21 Sassoon Road, Pokfulam, Hong Kong"   
+  email            : #
   links:
-    - label: "Email"
+    - label: "chul at hku.hk"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:chul at hku.hk
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://chullab.com"
+      # url: 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -114,9 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "852-1111-0000"
+      icon: "fab fa-fw fa-phone-square"
+      url: ""
 
 # Site Footer
 footer:
