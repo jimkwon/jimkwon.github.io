@@ -95,10 +95,15 @@ analytics:
 author:
   name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. *Albert Einstein, What Life Means to Einstein (1929)*"
-  location         : "?/F, Laboratory Block, 21 Sassoon Road, Pokfulam, Hong Kong"   
+  bio              : "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. *-Albert Einstein, What Life Means to Einstein (1929)*"
+  location         : "?/F, Laboratory Block, 
+                      21 Sassoon Road, Pokfulam, 
+                      Hong Kong"   
   email            : #
   links:
+    - label: "852-1111-0000"
+      icon: "fab fa-fw fa-phone-square"
+      url: ""
     - label: "chul at hku.hk"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:chul at hku.hk
@@ -113,10 +118,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "852-1111-0000"
-      icon: "fab fa-fw fa-phone-square"
-      url: ""
+      # url: "https://github.com/"    
 
 # Site Footer
 footer:
