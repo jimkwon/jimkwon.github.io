@@ -6,6 +6,17 @@ layout: collection
 collection: portfolio
 entries_layout: grid
 classes: wide
+
+gallery:
+  - url: assets/images/chul_crop250.jpg
+    image_path: assets/images/chul_crop250.jpg
+    alt: "placeholder image 1"
+  - url: assets/images/chul_crop250.jpg
+    image_path: assets/images/chul_crop250.jpg
+    alt: "placeholder image 2"
+  - url: assets/images/chul_crop250.jpg
+    image_path: assets/images/chul_crop250.jpg
+    alt: "placeholder image 3"
 ---
 
 ![image-right](/assets/images/chul_crop250.jpg){: .align-right width="250px"}
