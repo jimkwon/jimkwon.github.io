@@ -2,7 +2,7 @@
 permalink: /photo/
 title: "Photo"
 excerpt: # ""
-author_profile: false
+author_profile: true
 photo1:
   - url: /assets/images/nsmb.jpg
     image_path: /assets/images/nsmb.jpg
