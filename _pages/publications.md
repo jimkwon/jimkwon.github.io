@@ -2,7 +2,8 @@
 permalink: /publications/
 title: "Publications"
 excerpt: # ""
-author_profile: false
+author_profile: true
+
 ---
 <sup>1</sup>: co-first author
 <sup>2</sup>: co-second author
