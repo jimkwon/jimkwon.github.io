@@ -1,7 +1,7 @@
 ---
 permalink: /news/
 title: "What's new?"
-author_profile: false
+author_profile: true
 ---
 
 ### 16 April 2020  
