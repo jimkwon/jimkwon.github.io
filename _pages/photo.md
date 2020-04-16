@@ -3,7 +3,7 @@ permalink: /photo/
 title: "Photo"
 excerpt: # ""
 author_profile: false
-gallery:
+photo1:
   - url: /assets/images/nsmb.jpg
     image_path: /assets/images/nsmb.jpg
     alt: "placeholder image 1"
@@ -12,7 +12,7 @@ gallery:
     image_path: /assets/images/nsmb.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-gallery2:
+photo2:
   - url: /assets/images/nsmb.jpg
     image_path: /assets/images/nsmb.jpg
     alt: "placeholder image 1"
@@ -36,6 +36,6 @@ gallery2:
     
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}  
+{% include gallery id="photo1" caption="This is a sample gallery with **Markdown support**." %}  
 hi  
-{% include gallery2 caption="This is a sample gallery with **Markdown support**." %}  
+{% include gallery id="photo2" caption="This is a sample gallery with **Markdown support**." %}  
