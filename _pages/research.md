@@ -2,7 +2,8 @@
 permalink: /research/
 title: "Research"
 excerpt: # ""
-author_profile: false
+author_profile: true
+
 ---
 **We aim to understand RNA-based gene expression regulation mechanisms and to develop new technologies that can be used in biology and medicine.**  
   
