@@ -27,4 +27,5 @@ MicroRNAs are ~22-nt-long RNAs that regulate the expression of specific mRNAs in
   
 **Whole RNA-binding protein repertoire of embryonic stem cells (2013)**  
 RNA-binding proteins regulate the gene expression program, and many of them are linked to human diseases. In spite of their biological significance, our understanding of RNA-binding proteins had been limited to proteins with known RNA-binding domains. To reveal the comprehensive repertoire of RNA-binding proteins in embryonic stem cells, We carried out an experiment called “interactome capture” in collaboration with the Matthias Hentze group at EMBL. The interactome capture utilizes UV light to induce covalent crosslinks between RNA and nearby proteins, and the RNA-crosslinked proteins are purified and identified by mass spectrometry. As a result, We reported 555 RNA-binding proteins including a subset of stem cell-specific novel RNA-binding proteins. This paper has been cited >200 times and served as one of the three core datasets for a mammalian RNA-binding protein list (Nature Reviews Genetics 2014, 15:829).  
-![image-center](/assets/images/nsmb.jpg){: .align-center width="600px"}&nbsp;&nbsp;*From Nature Structural & Molecular Biology (2013) 20:1122*
+![image-center](/assets/images/nsmb.jpg){: .align-center width="600px"}
+&nbsp;&nbsp;*From Nature Structural & Molecular Biology (2013) 20:1122*
