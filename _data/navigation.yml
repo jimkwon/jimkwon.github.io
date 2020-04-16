@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Photo"
-    url: /photo/   
+  # - title: "Photo"
+  #   url: /photo/   
 
   - title: "News"
     url: /news/   
