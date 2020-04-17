@@ -4,10 +4,9 @@ title: ""
 excerpt: # ""
 author_profile: true  
 ---
+**WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
 ![image-center](/assets/images/noncodingRNAcrop_color.png){: .align-center width="600px"}  
 **#RNA therapeutics #Genome editing #Enzyme engineering #High-throughput sequencing**  
-  
-**WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
   
 > **Open positions:** Two PhD positions (as of May 2020)
   
