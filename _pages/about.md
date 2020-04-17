@@ -4,7 +4,7 @@ title: ""
 excerpt: # ""
 author_profile: true  
 ---
-![image-center](/assets/images/RNA.png){: .align-center width="400px"}  
+![image-center](/assets/images/noncodingRNAcrop_color.png){: .align-center width="600px"}  
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
   
 > **Open positions:** Two PhD positions (as of May 2020)
