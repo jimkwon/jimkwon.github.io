@@ -8,7 +8,7 @@ author_profile: true
 ![image-center](/assets/images/rnaengineer2.png){: .align-center width="600px"}  
 **#RNA therapeutics #Genome editing #Enzyme engineering #High-throughput sequencing**  
   
-> **Open positions:** Two PhD positions (as of May 2020)
+> **Open positions:** Two PhD positions (as of Jul 2020)
   
 > **Previous studies**  
 > We solved the first crystal structure of DROSHA (**Cell** 2016) and elucidated the mechanism of primary microRNA processing using high-throughput sequencing (**Molecular Cell** 2019).  
