@@ -8,7 +8,7 @@ author_profile: true
 <sup>1</sup>: co-first author
 <sup>2</sup>: co-second author
 
-* **Kwon SC**<sup>1</sup>, Jang H<sup>1</sup>, Yang J, Kim J, Baek SC, Kim J-S, Kim VN (2020) ERH as a component of the Microprocessor facilitates the maturation of suboptimal microRNAs. bioRxiv (doi: 10.1101/2020.05.13.093278)
+* **Kwon SC**<sup>1</sup>, Jang H<sup>1</sup>, Yang J, Kim J, Baek SC, Kim J-S, Kim VN (2020) ERH as a component of the Microprocessor facilitates the maturation of suboptimal microRNAs. **bioRxiv** (doi: 10.1101/2020.05.13.093278)
 * Bae JW, **Kwon SC**, Na Y, Kim VN, and Kim J-S (2020) Chemical RNA digestion enables robust RNA-binding site mapping at single amino acid-resolution. **Nature Structural & Molecular Cell Biology** in press
 * **Kwon SC**, Baek SC, Choi Y-G, Yang J, Lee Y, Woo J-S, Kim VN (2019) Molecular basis for the single-nucleotide precision of primary microRNA processing. **Molecular Cell** 73, 505-518  
 * **Kwon SC**<sup>1</sup>, Nguyen TA<sup>1</sup>, Choi Y-G<sup>1</sup>, Jo MH, Hohng S, Kim VN, Woo J-S (2016) Structure of Human DROSHA. **Cell** 164, 81-90 
