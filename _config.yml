@@ -96,12 +96,12 @@ author:
   name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We imagine *something* great."
-  location         : "?/F, Laboratory Block, <br />
+  location         : "L1-60, Laboratory Block, <br />
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21 Sassoon Road, Pokfulam, <br />
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong"   
   email            : #
   links:
-    - label: "Tel: 852-1111-0000"
+    - label: "Tel: 852-5743-3526"
       icon: "fas fa-fw fa-link"
       url: ""
     - label: "chul at hku.hk"
