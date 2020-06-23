@@ -9,7 +9,7 @@ author_profile: true
 <sup>2</sup>: co-second author
 
 * **Kwon SC**<sup>1</sup>, Jang H<sup>1</sup>, Yang J, Kim J, Baek SC, Kim J-S, Kim VN (2020) ERH as a component of the Microprocessor facilitates the maturation of suboptimal microRNAs. **bioRxiv** (doi: 10.1101/2020.05.13.093278)
-* Bae JW, **Kwon SC**, Na Y, Kim VN, and Kim J-S (2020) Chemical RNA digestion enables robust RNA-binding site mapping at single amino acid-resolution. **Nature Structural & Molecular Biology** in press
+* Bae JW, **Kwon SC**, Na Y, Kim VN, and Kim J-S (2020) Chemical RNA digestion enables robust RNA-binding site mapping at single amino acid-resolution. **Nature Structural & Molecular Biology** (doi: 10.1038/s41594-020-0436-2)
 * **Kwon SC**, Baek SC, Choi Y-G, Yang J, Lee Y, Woo J-S, Kim VN (2019) Molecular basis for the single-nucleotide precision of primary microRNA processing. **Molecular Cell** 73, 505-518  
 * **Kwon SC**<sup>1</sup>, Nguyen TA<sup>1</sup>, Choi Y-G<sup>1</sup>, Jo MH, Hohng S, Kim VN, Woo J-S (2016) Structure of Human DROSHA. **Cell** 164, 81-90 
 * Kampmann M, Horlbeck MA, Chen Y, Tsai JC, Bassik MC, Gilbert LA, Villalta JE, **Kwon SC**, Chang H, Kim VN, Weissman JS (2015) Next-generation libraries for robust RNA interference-based genome-wide screens. **Proceedings of the National Academy of Sciences of the United States of America** 112, E3384-E3391  
