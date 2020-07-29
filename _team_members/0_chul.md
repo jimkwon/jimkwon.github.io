@@ -1,6 +1,6 @@
 ---
 name: S. Chul KWON, PhD
-position: Principal Investigator
+position: Leader
 image: /assets/images/vienna.jpg
 ---
 chul at hku.hk  
