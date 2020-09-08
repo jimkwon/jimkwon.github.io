@@ -1,6 +1,6 @@
 ---
 permalink: /photo/
-title: "Memory of the lab"
+title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 photo1:
