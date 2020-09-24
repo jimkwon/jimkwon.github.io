@@ -1,5 +1,5 @@
 ---
-permalink: /photos/
+permalink: /photo/
 title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
