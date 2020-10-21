@@ -4,6 +4,10 @@ title: "What's new?"
 author_profile: true
 ---
 
+**12 Oct 2020**
+Gloria received another duty from the School. We thank her for her significant contribution to setting up our lab.  
+Siu joined our lab. Welcome!
+
 **1 Sep 2020**  
 Jonathan Kong and Joyce Ho joined as Research Assistants. Yay!
 
