@@ -7,9 +7,9 @@ author_profile: true
 ---
 <sup>1</sup>: co-first author
 <sup>2</sup>: co-second author
-<sup>*</sup>: co-corresponding author
+<sup>#</sup>: co-corresponding author
 
-* **Kwon SC**<sup>1</sup>, Jang H<sup>1</sup>, Shen S<sup>1</sup>, Baek SC, Kim K, Yang J, Kim J, Kim J-S, Wang S, Shi Y, Li F<sup>*</sup>, Kim VN<sup>*</sup> (2020) ERH facilitates microRNA maturation through the interaction with the N-terminus of DGCR8. **Nucleic Acids Research** 48, 11097-11112
+* **Kwon SC**<sup>1</sup>, Jang H<sup>1</sup>, Shen S<sup>1</sup>, Baek SC, Kim K, Yang J, Kim J, Kim J-S, Wang S, Shi Y, Li F<sup>#</sup>, Kim VN<sup>#</sup> (2020) ERH facilitates microRNA maturation through the interaction with the N-terminus of DGCR8. **Nucleic Acids Research** 48, 11097-11112
 * Bae JW, **Kwon SC**, Na Y, Kim VN<sup>*</sup>, and Kim J-S<sup>*</sup> (2020) Chemical RNA digestion enables robust RNA-binding site mapping at single amino acid-resolution. **Nature Structural & Molecular Biology** 27, 678-682
 * **Kwon SC**, Baek SC, Choi Y-G, Yang J, Lee Y, Woo J-S, Kim VN (2019) Molecular basis for the single-nucleotide precision of primary microRNA processing. **Molecular Cell** 73, 505-518  
 * **Kwon SC**<sup>1</sup>, Nguyen TA<sup>1</sup>, Choi Y-G<sup>1</sup>, Jo MH, Hohng S, Kim VN, Woo J-S (2016) Structure of Human DROSHA. **Cell** 164, 81-90 
