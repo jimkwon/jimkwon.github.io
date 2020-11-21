@@ -1,5 +1,5 @@
 ---
-name: S. Chul KWON, PhD
+name: S. Chul Kwon, PhD
 position: Leader
 image: /assets/images/vienna.jpg
 ---
