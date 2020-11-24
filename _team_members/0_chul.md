@@ -11,6 +11,6 @@ Personal interview with IBS ([YouTube](https://www.youtube.com/watch?v=y6hLUCl_y
 • Assistant Professor, The University of Hong Kong  
 • Postdoctoral Fellow/Researcher, Institute for Basic Science, Korea  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisors: *Jae-Sung Woo* ([ORCID](http://orcid.org/0000-0001-9163-3433)) & *V. Narry Kim* ([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim))  
-• B.S./Ph.D., Seoul National University, Korea  
+• B.Sc./Ph.D., Seoul National University, Korea  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: *V. Narry Kim* ([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim))   
 
