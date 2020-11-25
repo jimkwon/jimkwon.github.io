@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo3:
+  - url: /assets/images/mascot.jpg
+    image_path: /assets/images/mascot.jpg
+    alt: "_"
+    title: "25/11/2020 Mascot!"  
+    
 photo2:
   - url: /assets/images/dryingrack_v2.jpg
     image_path: /assets/images/dryingrack_v2.jpg
@@ -22,6 +28,7 @@ photo1:
     
 ---
 *2020*  
+{% include gallery id="photo3" caption="25/11/2020 A welcome guest" %}  
 {% include gallery id="photo2" caption="24/9/2020 A unique drying rack for our lab." %}  
 {% include gallery id="photo1" caption="7/9/2020 We cleaned and set up our lab!" %}  
 
