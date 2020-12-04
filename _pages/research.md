@@ -9,9 +9,8 @@ We aim to understand RNA-based gene expression regulation mechanisms and to deve
   
 ## ON-GOING PROJECTS
 * Small RNA-based high-throughput screening (coupled with CRISPR systems)  
-* Ribonucleases in innate immune responses  
-* Transposases and transposable elements for genome engineering  
-* (Future) viral noncoding RNAs and their use in RNA therapeutics 
+* RNA-related enzyme engineering  
+* Transposases and transposable elements for genome engineering   
   
     
 ## PREVIOUS STUDIES  
