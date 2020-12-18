@@ -4,6 +4,20 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo4:
+  - url: /assets/images/201218_group1.jpg
+    image_path: /assets/images/201218_group1.jpg
+    alt: "_"
+    title: "18/12/2020 Transformation"  
+  - url: /assets/images/201218_group1.jpg
+    image_path: /assets/images/201218_group1.jpg
+    alt: "_"
+    title: "18/12/2020 Gone with the Wind"   
+  - url: /assets/images/201218_Chul1.jpg
+    image_path: /assets/images/201218_Chul1.jpg
+    alt: "_"
+    title: "18/12/2020 A mask man"  
+
 photo3:
   - url: /assets/images/mascot.jpg
     image_path: /assets/images/mascot.jpg
@@ -28,6 +42,7 @@ photo1:
     
 ---
 *2020*  
+{% include gallery id="photo4" caption="18/12/2020 Group photos" layout="third" %}  
 {% include gallery id="photo3" caption="25/11/2020 A welcome guest" layout="half" %}  
 {% include gallery id="photo2" caption="24/9/2020 A unique drying rack for our lab." %}  
 {% include gallery id="photo1" caption="7/9/2020 We cleaned and set up our lab!" %}  
