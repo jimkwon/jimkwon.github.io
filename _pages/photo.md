@@ -9,8 +9,8 @@ photo4:
     image_path: /assets/images/201218_group1.jpg
     alt: "_"
     title: "18/12/2020 Transformation"  
-  - url: /assets/images/201218_group1.jpg
-    image_path: /assets/images/201218_group1.jpg
+  - url: /assets/images/201218_group2.jpg
+    image_path: /assets/images/201218_group2.jpg
     alt: "_"
     title: "18/12/2020 Gone with the Wind"   
   - url: /assets/images/201218_Chul1.jpg
