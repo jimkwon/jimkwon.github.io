@@ -48,8 +48,8 @@ photo1:
     
 ---
 *2020*  
-{% include gallery id="photo5" caption="18/12/2020 Group photos2" layout="half" %}  
-{% include gallery id="photo4" caption="18/12/2020 Group photos1" layout="half" %}  
+{% include gallery id="photo5" caption="18/12/2020 Group photo #2" layout="half" %}  
+{% include gallery id="photo4" caption="18/12/2020 Group photo #1" layout="half" %}  
 {% include gallery id="photo3" caption="25/11/2020 A welcome guest" layout="half" %}  
 {% include gallery id="photo2" caption="24/9/2020 A unique drying rack for our lab." %}  
 {% include gallery id="photo1" caption="7/9/2020 We cleaned and set up our lab!" %}  
