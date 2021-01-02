@@ -4,7 +4,7 @@ title: "What's new?"
 author_profile: true
 ---
 **1 Jan 2021**  
-Jonathan Kong became the first RPg student in our lab.
+Jonathan Kong became the first RPg student in our lab.  
 
 **12 Oct 2020**  
 Gloria received another duty from the School. We thank her for her significant contribution to setting up our lab.  
