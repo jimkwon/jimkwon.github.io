@@ -2,8 +2,9 @@
 permalink: /openings/
 title: "Open positions"
 author_profile: true
-image: /assets/images/officephoto2.jpg
 ---
 If you are interested in our lab, please feel free to contact *Chul* (chul at hku.hk). We aim to train a PhD student to be able to (1) think comprehensively, (2) perform biochemical/high-throughput experiments, and (3) analyze the data through his or her own Python scripts.
 
 There are attractive funding schemes such as "HKU Presidential PhD Scholarship" or "Hong Kong PhD Fellowships". Please find the link for further information. [https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees)
+  
+![image-center](/assets/images/officephoto2.jpg){: .align-center width="250px"}  
