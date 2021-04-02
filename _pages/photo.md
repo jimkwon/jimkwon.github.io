@@ -3,6 +3,12 @@ permalink: /photo/
 title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
+
+photo6:
+  - url: /assets/images/210402cell.jpg
+    image_path: /assets/images/210402cell.jpg
+    alt: "_"
+    title: "2/4/2021 In the beginning, there was a HEK293 cell."  
   
 photo5:
   - url: /assets/images/201218_group1.jpg
@@ -47,6 +53,8 @@ photo1:
     title: "7/9/2020 lab"  
     
 ---
+*2021*
+{% include gallery id="photo6" caption="2/4/2021 A cell" layout="half" %}  
 *2020*  
 {% include gallery id="photo5" caption="18/12/2020 Group photo #2" layout="half" %}  
 {% include gallery id="photo4" caption="18/12/2020 Group photo #1" layout="half" %}  
