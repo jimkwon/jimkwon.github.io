@@ -53,7 +53,7 @@ photo1:
     title: "7/9/2020 lab"  
     
 ---
-*2021*
+*2021*  
 {% include gallery id="photo6" caption="2/4/2021 A cell" layout="half" %}  
 *2020*  
 {% include gallery id="photo5" caption="18/12/2020 Group photo #2" layout="half" %}  
