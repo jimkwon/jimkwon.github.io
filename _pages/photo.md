@@ -60,7 +60,7 @@ photo1:
     
 ---
 *2021*  
-{% include gallery id="photo7" caption="25/5/2021 A hand-made GFP" layout="half" %}  
+{% include gallery id="photo7" caption="25/5/2021 Jonathan's hand-made GFP" layout="half" %}  
 {% include gallery id="photo6" caption="2/4/2021 A cell" layout="half" %}  
 *2020*  
 {% include gallery id="photo5" caption="18/12/2020 Group photo #2" layout="half" %}  
