@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo7:
+  - url: /assets/images/GFP2.jpg
+    image_path: /assets/images/GFP2.jpg
+    alt: "_"
+    title: "25/5/2021 Jonathan made a hand-made GFP model by following David Baker's paper."  
+    
 photo6:
   - url: /assets/images/210402cell.jpg
     image_path: /assets/images/210402cell.jpg
@@ -54,6 +60,7 @@ photo1:
     
 ---
 *2021*  
+{% include gallery id="photo7" caption="25/5/2021 A hand-made GFP" layout="half" %}  
 {% include gallery id="photo6" caption="2/4/2021 A cell" layout="half" %}  
 *2020*  
 {% include gallery id="photo5" caption="18/12/2020 Group photo #2" layout="half" %}  
