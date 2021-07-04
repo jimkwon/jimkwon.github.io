@@ -4,7 +4,7 @@ title: "What's new?"
 author_profile: true
 ---
 **23 Jun 2021**  
-Our work will be supported by Platform Technology Funding (PTF) 2021/21 for 2 years.  
+Our work will be supported by Platform Technology Funding (PTF) 2020/21.  
   
 **1 Jan 2021**  
 Jonathan Kong became the first RPg student in our lab.  
