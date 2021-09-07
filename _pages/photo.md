@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo8:
+  - url: /assets/images/2021Jul_team.png
+    image_path: /assets/images/2021Jul_team.png
+    alt: "_"
+    title: "15/7/2021 Good luck, Joyce!"  
+
 photo7:
   - url: /assets/images/GFP2.jpg
     image_path: /assets/images/GFP2.jpg
@@ -60,6 +66,7 @@ photo1:
     
 ---
 *2021*  
+{% include gallery id="photo8" caption="15/7/2021 Team Lunch" layout="half" %}  
 {% include gallery id="photo7" caption="25/5/2021 Jonathan's hand-made GFP" layout="half" %}  
 {% include gallery id="photo6" caption="2/4/2021 A cell" layout="half" %}  
 *2020*  
