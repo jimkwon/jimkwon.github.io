@@ -1,7 +1,7 @@
 ---
 name: S. Chul Kwon, PhD
 position: Leader
-image: /assets/images/201218_Chul2.jpg
+image: /assets/images/Chul_Cropped_small2.jpg
 ---
 chul at hku.hk  
 Full CV ([link](https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogzCGlcWsDIvN5EXYg/edit?usp=sharing))  
