@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**1 Sep 2021**  
+Joe Lam and Preston Chu joined our lab!
+
 **23 Jun 2021**  
 Our work is supported by Platform Technology Funding (PTF) 2020/21.  
   
