@@ -10,7 +10,7 @@ Personal interview with IBS ([YouTube](https://www.youtube.com/watch?v=y6hLUCl_y
   
 • Assistant Professor, The University of Hong Kong  
 • Postdoctoral Fellow/Researcher, Institute for Basic Science, Korea  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisors: *Jae-Sung Woo* ([ORCID](http://orcid.org/0000-0001-9163-3433)) & *V. Narry Kim* ([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim))  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisors: *Jae-Sung Woo* ([ORCID](http://orcid.org/0000-0001-9163-3433), [YouTube](https://www.youtube.com/watch?v=xgEFwfBCS6E)) & *V. Narry Kim* ([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim), [iBiology](https://www.youtube.com/watch?v=0ZjDn9aaqV8&t=1s))  
 • BSc/PhD, Seoul National University, Korea  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: *V. Narry Kim* ([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim))   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: *V. Narry Kim* ([wikipedia](https://en.wikipedia.org/wiki/V._Narry_Kim), [iBiology](https://www.youtube.com/watch?v=0ZjDn9aaqV8&t=1s))   
 
