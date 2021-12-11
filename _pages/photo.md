@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo9:
+  - url: /assets/images/School_Party_2021.jpeg
+    image_path: /assets/images/School_Party_2021.jpeg
+    alt: "_"
+    title: "09/12/2021 School Christmas Party"  
+    
 photo8:
   - url: /assets/images/2021Jul_team.png
     image_path: /assets/images/2021Jul_team.png
@@ -66,6 +72,7 @@ photo1:
     
 ---
 *2021*  
+{% include gallery id="photo9" caption="9/12/2021 School Christmas Party" layout="half" %}  
 {% include gallery id="photo8" caption="15/7/2021 Team Lunch" layout="half" %}  
 {% include gallery id="photo7" caption="25/5/2021 Jonathan's hand-made GFP" layout="half" %}  
 {% include gallery id="photo6" caption="2/4/2021 A cell" layout="half" %}  
