@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Chul KWON Lab"
 title_separator          : "-"
-subtitle                 : "RNA Biology at HKU" # site tagline that appears below site title in masthead
+subtitle                 : "RNA Engineering at HKU" # site tagline that appears below site title in masthead
 name                     : "Chul KWON Lab"
 description              : "RNA Biology at HKU"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
