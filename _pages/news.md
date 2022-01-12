@@ -3,6 +3,10 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**3 Jan 2022**  
+We appreciate Siu's professional effort and great contribution in building our lab. We bless Siu's new journey as a Researcher in Prof Jin's lab.  
+Jayami joined as a Technician. Welcome!
+  
 **1 Sep 2021**  
 Joe Lam and Preston Chu joined our lab!  
   
