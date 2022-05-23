@@ -8,7 +8,7 @@ photo10:
   - url: /assets/images/220422_small.jpg
     image_path: /assets/images/220422_small.jpg
     alt: "_"
-    title: "22/04/2022 Before Journal Club (Photo courtesy of Steven Chan)"  
+    title: "22/04/2022 Before Journal Club"  
 
 photo9:
   - url: /assets/images/School_Party_2021.jpeg
@@ -78,7 +78,7 @@ photo1:
     
 ---
 *2022*  
-{% include gallery id="photo10" caption="22/04/2022 Before Journal Club" %}  
+{% include gallery id="photo10" caption="22/04/2022 Before Journal Club (Photo courtesy of Steven Chan)" %}  
 *2021*  
 {% include gallery id="photo9" caption="9/12/2021 School Christmas Party" layout="half" %}  
 {% include gallery id="photo8" caption="15/7/2021 Team Lunch" layout="half" %}  
