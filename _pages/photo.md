@@ -8,7 +8,7 @@ photo10:
   - url: /assets/images/220422_small.jpg
     image_path: /assets/images/220422_small.jpg
     alt: "_"
-    title: "22/04/2022 Before Journal Club"  
+    title: "22/04/2022 Before Journal Club (Photo courtesy of Steven Chan)"  
 
 photo9:
   - url: /assets/images/School_Party_2021.jpeg
