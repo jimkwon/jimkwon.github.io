@@ -3,9 +3,12 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**30 Jun 2022**  
+Our work is supported by Early Career Scheme (ECS) 2022/23.  
+  
 **3 Jan 2022**  
 We appreciate Siu's professional effort and great contribution in building our lab. We bless Siu's new journey as a Researcher in Prof Jin's lab.  
-Jayami joined as a Technician. Welcome!
+Jayami joined as a Technician. 
   
 **1 Sep 2021**  
 Joe Lam and Preston Chu joined our lab!  
