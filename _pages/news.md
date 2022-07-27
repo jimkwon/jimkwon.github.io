@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**27 Jul 2022**  
+Our work is supported by Seed Fund for Translational and Applied Research (HKU).  
+  
 **30 Jun 2022**  
 Our work is supported by Early Career Scheme (ECS) 2022/23.  
   
