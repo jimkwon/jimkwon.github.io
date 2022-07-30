@@ -4,6 +4,30 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo12:
+  - url: "/assets/images/220730 lab.png"
+    image_path: "/assets/images/220730 lab.png"
+    alt: "_"
+    title: "29/07/2022 Last day of Preston"  
+  - url: "/assets/images/220730-1.png"
+    image_path: "/assets/images/220730-1.png"
+    alt: "_"
+    title: "29/07/2022 Last day of Preston"  
+  - url: "/assets/images/220730-2.png"
+    image_path: "/assets/images/220730-2.png"
+    alt: "_"
+    title: "29/07/2022 Last day of Preston"  
+  - url: "/assets/images/220730-3.png"
+    image_path: "/assets/images/220730-3.png"
+    alt: "_"
+    title: "29/07/2022 Last day of Preston"  
+
+photo11:
+  - url: /assets/images/220730-School.jpg
+    image_path: /assets/images/220730-School.jpg
+    alt: "_"
+    title: "29/07/2022 School Portrait"  
+
 photo10:
   - url: /assets/images/220422_small.jpg
     image_path: /assets/images/220422_small.jpg
@@ -78,6 +102,8 @@ photo1:
     
 ---
 *2022*  
+{% include gallery id="photo12" caption="29/07/2022 Last day of Preston" layout="half" %}  
+{% include gallery id="photo11" caption="29/07/2022 School Portrait" %}  
 {% include gallery id="photo10" caption="22/04/2022 Before Journal Club (Photo courtesy of Steven Chan)" %}  
 *2021*  
 {% include gallery id="photo9" caption="9/12/2021 School Christmas Party" layout="half" %}  
