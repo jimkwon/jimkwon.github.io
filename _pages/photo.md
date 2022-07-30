@@ -103,7 +103,7 @@ photo1:
 ---
 *2022*  
 {% include gallery id="photo12" caption="29/07/2022 Last day of Preston" layout="half" %}  
-{% include gallery id="photo11" caption="29/07/2022 School Portrait" %}  
+{% include gallery id="photo11" caption="29/07/2022 School Portrait" layout="half" %}  
 {% include gallery id="photo10" caption="22/04/2022 Before Journal Club (Photo courtesy of Steven Chan)" %}  
 *2021*  
 {% include gallery id="photo9" caption="9/12/2021 School Christmas Party" layout="half" %}  
