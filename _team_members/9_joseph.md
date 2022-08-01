@@ -4,4 +4,4 @@ position: Technician
 image: /assets/images/josephho.jpg  
 ---
 cheukcho at hku.hk  
-• BSc (in Neuroscience), Bates College, US  
+• BSc, Bates College, US  
