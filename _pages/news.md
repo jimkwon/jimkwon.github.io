@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**1 Aug 2022**  
+Joseph Ho joined our lab!  
+
 **27 Jul 2022**  
 Our work is supported by Seed Fund for Translational and Applied Research (HKU).  
   
