@@ -4,7 +4,7 @@ title: "What's new?"
 author_profile: true
 ---
 **8 Aug 2022**  
-Ezra Cheng joined as a third MPhil student in our lab.  
+Ezra Cheng joined as the third MPhil student in our lab.  
   
 **1 Aug 2022**  
 Joseph Ho joined our lab!  
