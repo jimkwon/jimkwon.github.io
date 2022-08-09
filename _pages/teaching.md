@@ -15,6 +15,6 @@ author_profile: true
 {% include video id="TcojQXVZQq4" provider="youtube" %}  
 &nbsp;&nbsp;*RNA-targeting Cas13d protein (PDB: 6E9E and 6E9F)*  
   
-## BBMS2007 Essential Molecular Biology (for Undergraduate students)  
+## BBMS2007 Essential Molecular Biology (for undergraduate students)  
 ![image-center](/assets/images/BBMS2007.jpg){: .align-center width="600px"}
-&nbsp;&nbsp;*From Students' feedback in 2021*  
+&nbsp;&nbsp;*From students' feedback in 2021*  
