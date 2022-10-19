@@ -3,7 +3,7 @@ name: S. Chul Kwon, PhD
 position: Leader
 image: /assets/images/Chul_Cropped_small2.jpg
 ---
-權性哲 권성철
+權性哲 권성철  
 chul at hku.hk  
 Full CV ([link](https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogzCGlcWsDIvN5EXYg/edit?usp=sharing))  
 ORCID: 0000-0002-9519-5132 ([link](https://orcid.org/0000-0002-9519-5132))  
