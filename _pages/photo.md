@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo13:
+  - url: "/assets/images/20221208party.png"
+    image_path: "/assets/images/20221208party.png"
+    alt: "_"
+    title: "08/12/2022 School Christmas Party"  
+
 photo12:
   - url: "/assets/images/220730 lab.png"
     image_path: "/assets/images/220730 lab.png"
@@ -102,6 +108,7 @@ photo1:
     
 ---
 *2022*  
+{% include gallery id="photo13" caption="08/12/2022 School Christmas Party" %}  
 {% include gallery id="photo12" caption="29/07/2022 Last day of Preston" layout="half" %}  
 {% include gallery id="photo11" caption="29/07/2022 School Portrait" layout="half" %}  
 {% include gallery id="photo10" caption="22/04/2022 Before Journal Club (Photo courtesy of Steven Chan)" %}  
