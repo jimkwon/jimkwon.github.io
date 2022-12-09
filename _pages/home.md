@@ -5,7 +5,7 @@ excerpt: # ""
 author_profile: true  
 ---
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
-![image-center](/assets/images/rnaengineer2.png){: .align-center width="500px"}  
+![image-center](/assets/images/lablogo2022joe300.jpg){: .align-center width="500px"}  
 **#RNA therapeutics #Genome editing #Enzyme engineering #High-throughput sequencing**  
   
 > **Previous studies**  
