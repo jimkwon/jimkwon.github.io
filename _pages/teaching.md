@@ -6,6 +6,9 @@ author_profile: true
 
 ---
 ## Home-made YouTube videos for teaching molecular biology 
+{% include video id="3GPDCRO6liI" provider="youtube" %}  
+&nbsp;&nbsp;*ShCAST (CRISPR-associated transposons) (PDB: 8EA3)*  
+
 {% include video id="txqglLhdO0c" provider="youtube" %}  
 &nbsp;&nbsp;*E. coli RNA polymerase (PDB: 6CA0)*  
   
