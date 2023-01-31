@@ -1,6 +1,6 @@
 ---
 name: Jonathan Kong
-position: MPhil Student
+position: PhD Student
 image: /assets/images/201218_Jonathan1.jpg
 ---
 江渭璟 강위경  
