@@ -5,12 +5,12 @@ excerpt: # ""
 author_profile: true
 
 ---
-We aim to understand RNA-based gene expression regulation mechanisms and to develop new technologies that can be used in biology and medicine. We apply an integrative approach by combining CRISPR-Cas systems, high-throughput sequencing, and human cell-based protein purification.  
+We aim to understand RNA-based gene expression regulation mechanisms and to develop new technologies that can be used in biology and medicine. We apply an integrative approach by combining RNA-targeting CRISPR-Cas systems, high-throughput sequencing, and recombinant protein purification.  
   
 ## ON-GOING PROJECTS
 * Small RNA-based high-throughput screening (coupled with CRISPR systems)  
 * RNA-related enzyme engineering  
-* Transposases and transposable elements for genome engineering   
+* High-throughput RNA quantitation methods  
   
     
 ## PREVIOUS STUDIES  
