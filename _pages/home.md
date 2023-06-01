@@ -4,9 +4,9 @@ title: ""
 excerpt: # ""
 author_profile: true  
 ---
-**WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP GENOME ENGINEERING TOOLS**  
+**WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP TRANSCRIPTOME ENGINEERING TOOLS**  
 ![image-center](/assets/images/lablogo2022.png){: .align-center width="500px"}  
-**#RNA therapeutics #Genome editing #Enzyme engineering #High-throughput sequencing**  
+**#RNA therapeutics #RNA editing #Enzyme engineering #High-throughput sequencing**  
   
 > **Previous studies**  
 > We solved the first crystal structure of DROSHA (**Cell** 2016) and elucidated the mechanism of primary microRNA processing using high-throughput sequencing (**Molecular Cell** 2019).  
