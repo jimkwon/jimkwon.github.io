@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**29 May 2023**  
+Kelly became the first summer internship student in our lab. 
+
 **1 Dec 2022**  
 Joe received the best poster prize at the 27th Research Postgraduate Symposium.  
  
