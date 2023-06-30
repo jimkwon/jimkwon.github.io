@@ -3,9 +3,12 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**30 Jun 2023**  
+Our work is supported by General Research Fund (GRF) 2023/24.  
+  
 **29 May 2023**  
 Kelly became the first summer internship student in our lab. 
-
+  
 **1 Dec 2022**  
 Joe received the best poster prize at the 27th Research Postgraduate Symposium.  
  
@@ -22,7 +25,7 @@ Our work is supported by Seed Fund for Translational and Applied Research (HKU).
 Our work is supported by Early Career Scheme (ECS) 2022/23.  
   
 **3 Jan 2022**  
-We appreciate Siu's professional effort and great contribution in building our lab. We bless Siu's new journey as a Researcher in Prof Jin's lab.  
+We appreciate Siu's professional effort and great contribution to building our lab. We bless Siu's new journey as a Researcher in Prof Jin's lab.  
 Jayami joined as a Technician. 
   
 **1 Sep 2021**  
