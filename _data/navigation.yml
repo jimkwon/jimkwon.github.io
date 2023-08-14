@@ -19,7 +19,10 @@ main:
     url: /teaching/   
 
   - title: "News"
-    url: /news/   
+    url: /news/  
+    
+  - title: "Openings"
+    url: /openings/  
 
   
 
