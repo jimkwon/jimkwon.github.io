@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo14:
+  - url: "/assets/images/230817-joe-poster.jpg"
+    image_path: "/assets/images/230817-joe-poster.jpg"
+    alt: "_"
+    title: "17/8/2023 Joe's awarded poster"  
+
 photo13:
   - url: "/assets/images/20221208party.png"
     image_path: "/assets/images/20221208party.png"
@@ -107,6 +113,8 @@ photo1:
     title: "7/9/2020 lab"  
     
 ---
+*2023*  
+{% include gallery id="photo14" caption="17/8/2023 Joe's awarded poster" %}  
 *2022*  
 {% include gallery id="photo13" caption="08/12/2022 School Christmas Party" %}  
 {% include gallery id="photo12" caption="29/07/2022 Last day of Preston" layout="half" %}  
