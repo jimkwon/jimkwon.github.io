@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo15:
+  - url: "/assets/images/230929-joseph.png"
+    image_path: "/assets/images/230929-joseph.png"
+    alt: "_"
+    title: "29/9/2023 Joseph's last day"  
+
 photo14:
   - url: "/assets/images/230817-joe-poster.jpg"
     image_path: "/assets/images/230817-joe-poster.jpg"
@@ -114,6 +120,7 @@ photo1:
     
 ---
 *2023*  
+{% include gallery id="photo15" caption="29/9/2023 Joseph's last day" layout="half" %}  
 {% include gallery id="photo14" caption="17/8/2023 Joe's awarded poster" %}  
 *2022*  
 {% include gallery id="photo13" caption="08/12/2022 School Christmas Party" %}  
