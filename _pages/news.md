@@ -3,6 +3,10 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**1 Oct 2023**  
+Joseph received another duty from the University. We appreciate Joseph's significant contribution to maintaining our lab. 
+Jeffery joined as a Senior Technician. 
+
 **30 Jun 2023**  
 Our work is supported by General Research Fund (GRF) 2023/24.  
   
