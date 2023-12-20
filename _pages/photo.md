@@ -22,6 +22,12 @@ photo14:
     alt: "_"
     title: "17/8/2023 Joe's awarded poster"  
 
+photo17:
+  - url: "/assets/images/230114_hkumed.jpg"
+    image_path: "/assets/images/230114_hkumed.jpg"
+    alt: "_"
+    title: "14/1/2023 28th Medical Research Conference at HKU"  
+    
 photo13:
   - url: "/assets/images/20221208party.png"
     image_path: "/assets/images/20221208party.png"
@@ -129,6 +135,8 @@ photo1:
 {% include gallery id="photo16" caption="13/12/2023 School Christmas Party" %}  
 {% include gallery id="photo15" caption="29/9/2023 Joseph's last day" layout="half" %}  
 {% include gallery id="photo14" caption="17/8/2023 Joe's awarded poster" %}  
+{% include gallery id="photo17" caption="14/1/2023 28th Medical Research Conference at HKU" %}  
+
 *2022*  
 {% include gallery id="photo13" caption="08/12/2022 School Christmas Party" %}  
 {% include gallery id="photo12" caption="29/07/2022 Last day of Preston" layout="half" %}  
