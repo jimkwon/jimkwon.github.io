@@ -5,7 +5,7 @@ image: /assets/images/Chul_Cropped_small2.jpg
 ---
 權性哲 권성철  
 chul at hku.hk  
-Full CV ([link](https://docs.google.com/document/d/1DD6wrMcbN5_pdtMOqHPD9QHHbogzCGlcWsDIvN5EXYg/edit?usp=sharing))  
+Full CV ([link](https://docs.google.com/document/d/1yeMhpj3J62RMgf_sy0svAe3eQrl5DAHdfuOAkPcMNjE/edit?usp=sharing))  
 ORCID: 0000-0002-9519-5132 ([link](https://orcid.org/0000-0002-9519-5132))  
 Personal interview with IBS ([YouTube](https://www.youtube.com/watch?v=y6hLUCl_yrQ&feature=youtu.be))  
   
