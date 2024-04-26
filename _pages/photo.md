@@ -4,25 +4,35 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
-photo16:
+photo18:
+  - url: "/assets/images/240426_JK1s.jpeg"
+    image_path: "/assets/images/240426_JK1s.jpeg"
+    alt: "_"
+    title: "26/4/2024 Ezra bought a new camera"
+  - url: "/assets/images/240426_Chuls.jpeg"
+    image_path: "/assets/images/240426_Chuls.jpeg"
+    alt: "_"
+    title: "26/4/2024 Ezra bought a new camera"
+    
+photo17:
   - url: "/assets/images/231213_bbq.jpg"
     image_path: "/assets/images/231213_bbq.jpg"
     alt: "_"
     title: "13/12/2023 School Christmas Party"  
 
-photo15:
+photo16:
   - url: "/assets/images/230929-joseph.png"
     image_path: "/assets/images/230929-joseph.png"
     alt: "_"
     title: "29/9/2023 Joseph's last day"  
 
-photo14:
+photo15:
   - url: "/assets/images/230817-joe-poster.jpg"
     image_path: "/assets/images/230817-joe-poster.jpg"
     alt: "_"
     title: "17/8/2023 Joe's awarded poster"  
 
-photo17:
+photo14:
   - url: "/assets/images/230114_hkumed.jpg"
     image_path: "/assets/images/230114_hkumed.jpg"
     alt: "_"
@@ -131,11 +141,14 @@ photo1:
     title: "7/9/2020 lab"  
     
 ---
+*2024*  
+{% include gallery id="photo18" caption="26/4/2024 Ezra bought a new camera" %}  
+
 *2023*  
-{% include gallery id="photo16" caption="13/12/2023 School Christmas Party" %}  
-{% include gallery id="photo15" caption="29/9/2023 Joseph's last day" layout="half" %}  
-{% include gallery id="photo14" caption="17/8/2023 Joe's awarded poster" %}  
-{% include gallery id="photo17" caption="14/1/2023 28th Medical Research Conference at HKU" %}  
+{% include gallery id="photo17" caption="13/12/2023 School Christmas Party" %}  
+{% include gallery id="photo16" caption="29/9/2023 Joseph's last day" layout="half" %}  
+{% include gallery id="photo15" caption="17/8/2023 Joe's awarded poster" %}  
+{% include gallery id="photo14" caption="14/1/2023 28th Medical Research Conference at HKU" %}  
 
 *2022*  
 {% include gallery id="photo13" caption="08/12/2022 School Christmas Party" %}  
