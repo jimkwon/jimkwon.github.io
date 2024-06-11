@@ -4,6 +4,16 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo19:
+  - url: "/assets/images/240530_RNA_meeting.jpg"
+    image_path: "/assets/images/240530_RNA_meeting.jpg"
+    alt: "_"
+    title: "30/5/2024 RNA Society Meeting, Edinburgh, UK"
+  - url: "/assets/images/240604_Alfredo.jpg"
+    image_path: "/assets/images/240604_Alfredo.jpg"
+    alt: "_"
+    title: "4/6/2024 With Alfredo at the University of Glasgow"
+
 photo18:
   - url: "/assets/images/240426_JK1s.jpeg"
     image_path: "/assets/images/240426_JK1s.jpeg"
@@ -142,7 +152,8 @@ photo1:
     
 ---
 *2024*  
-{% include gallery id="photo18" caption="26/4/2024 Ezra bought a new camera" %}  
+{% include gallery id="photo19" caption="30/5/2024 RNA Society Meeting 2024 and Visiting Alfredo" layout="half" %}  
+{% include gallery id="photo18" caption="26/4/2024 Ezra bought a new camera" layout="half" %}  
 
 *2023*  
 {% include gallery id="photo17" caption="13/12/2023 School Christmas Party" %}  
