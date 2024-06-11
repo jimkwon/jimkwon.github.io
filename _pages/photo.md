@@ -152,7 +152,7 @@ photo1:
     
 ---
 *2024*  
-{% include gallery id="photo19" caption="30/5/2024 RNA Society Meeting 2024 and Visiting Alfredo" layout="half" %}  
+{% include gallery id="photo19" caption="30/5/2024 RNA Society Meeting 2024 (Edinburgh) and Visiting Alfredo (Glasgow)" layout="half" %}  
 {% include gallery id="photo18" caption="26/4/2024 Ezra bought a new camera" layout="half" %}  
 
 *2023*  
