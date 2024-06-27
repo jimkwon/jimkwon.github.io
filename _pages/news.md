@@ -4,7 +4,7 @@ title: "What's new?"
 author_profile: true
 ---
 **27 Jun 2024**  
-Our work will be supported by General Research Fund (GRF) 2024/25. We have received 3 consecutive ECS/GRF grants, totaling HKD 4.2 M! A huge congratulations to all lab members!  
+Our work will be supported by General Research Fund (GRF) 2024/25. We have received 3 consecutive ECS/GRF grants, totaling HKD 4.2 M!    
   
 **1 Oct 2023**  
 Joseph received another duty from the University. We appreciate Joseph's significant contribution to maintaining our lab.  
