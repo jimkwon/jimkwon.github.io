@@ -3,10 +3,13 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**27 Jun 2024**  
+Our work will be supported by General Research Fund (GRF) 2024/25. We have received 3 consecutive ECS/GRF grants, totaling HKD 4.2 M! A huge congratulations to all lab members!  
+  
 **1 Oct 2023**  
 Joseph received another duty from the University. We appreciate Joseph's significant contribution to maintaining our lab.  
 Jeffery joined as a Senior Technician. 
-
+  
 **30 Jun 2023**  
 Our work will be supported by General Research Fund (GRF) 2023/24.  
   
@@ -17,7 +20,7 @@ Kelly became the first summer internship student in our lab.
 Joe received the best poster prize at the 27th Research Postgraduate Symposium.  
  
 **8 Aug 2022**  
-Ezra Cheng joined as the third MPhil student in our lab.  
+Ezra Cheng joined our lab as the third MPhil student.  
   
 **1 Aug 2022**  
 Joseph Ho joined our lab!  
