@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**18 Jul 2024**  
+Joe received the HKU Foundation Award for Outstanding Research Postgraduate Students!  
+  
 **27 Jun 2024**  
 Our work will be supported by General Research Fund (GRF) 2024/25. We have received 3 consecutive ECS/GRF grants, totaling HKD 4.2 M!    
   
