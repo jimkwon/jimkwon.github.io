@@ -1,7 +1,7 @@
 ---
 name: Sum Kiu Leung  
 position: Research Assistant  
-image: /assets/images/skleung.jpg
+image: /assets/images/skleung.JPG
 ---
 
 sumkiu at hku.hk    
