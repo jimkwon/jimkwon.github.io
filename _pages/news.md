@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**1 Aug 2024**  
+Sum Kiu joined our lab. 
+
 **18 Jul 2024**  
 Joe received the HKU Foundation Award for Outstanding Research Postgraduate Students!  
   
