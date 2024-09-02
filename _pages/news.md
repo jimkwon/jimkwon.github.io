@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**1 Sep 2024**  
+Amro joined our lab as the fourth student.   
+
 **1 Aug 2024**  
 Sum Kiu joined our lab. 
 
