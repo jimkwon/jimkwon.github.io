@@ -1,7 +1,7 @@
 ---
 name: Jason Li  
 position: Research Assistant  
-image: /assets/images/jasonli.JPG
+image: /assets/images/jasonli.jpeg
 ---
 李應祈    
 ykjli at hku.hk    
