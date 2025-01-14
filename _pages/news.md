@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**1 Dec 2024**  
+Jason Li joined our lab. 
+  
 **12 Nov 2024**  
 Chul became the PI of another GRF grant (HKD 1.6 M). The total amount of external grants as PI is now HKD 5.8 M, and we are looking for a postdoc or PhD student interested in EBV.   
   
