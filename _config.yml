@@ -20,7 +20,7 @@ title                    : "Chul KWON Lab"
 title_separator          : "-"
 subtitle                 : "RNA Engineering at HKU" # site tagline that appears below site title in masthead
 name                     : "Chul KWON Lab"
-description              : "RNA Engineering at HKU"
+description              : "High-throughput RNA Biology"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jimkwon/jimkwon.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We imagine *something* great."
+  bio              : "The University of Hong Kong"
   location         : "L1-46 (Office)/L1-05 (Lab), <br />
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory Block, <br />
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21 Sassoon Road, Pokfulam, <br />
