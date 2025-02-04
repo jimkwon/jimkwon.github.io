@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo20:
+  - url: "/assets/images/250204-pici.jpg"
+    image_path: "/assets/images/250204-pici.jpg"
+    alt: "_"
+    title: "4/2/2025 The lab first paper has been accepted in EMBO Reports!"
+  
 photo19:
   - url: "/assets/images/240530_RNA_meeting.jpg"
     image_path: "/assets/images/240530_RNA_meeting.jpg"
@@ -151,6 +157,9 @@ photo1:
     title: "7/9/2020 lab"  
     
 ---
+*2025*  
+{% include gallery id="photo20" caption="4/2/2025 The lab first paper has been accepted in EMBO Reports!" layout="half" %}  
+
 *2024*  
 {% include gallery id="photo19" caption="30/5/2024 RNA Society Meeting 2024 (Edinburgh) and Visiting Alfredo (Glasgow)" layout="half" %}  
 {% include gallery id="photo18" caption="26/4/2024 Ezra bought a new camera" layout="half" %}  
