@@ -9,7 +9,7 @@ author_profile: true
 <sup>2</sup>: co-second author
 <sup>#</sup>: co-corresponding author
 
-* **Cheng ECK**, **Lam JKC**, **Kwon SC** (2025) Cytosolic CRISPR RNA for efficient application of RNA-targeting CRISPR-Cas systems. **EMBO Reports** accepted   
+* **Cheng ECK**, **Lam JKC**, **Kwon SC** (2025) Cytosolic CRISPR RNA for efficient application of RNA-targeting CRISPR-Cas systems. **EMBO Reports** https://doi.org/10.1038/s44319-025-00399-4     
 * Kim H, Jang B, Lee D, **Kwon SC**, Lee H (2022) Artificial primary-miRNAs as a platform for simultaneous delivery of siRNA and antisense oligonucleotide for multimodal gene regulation. **Journal of Controlled Release** 349, 983-991
 * Na Y, Kim H, Choi Y, Shin S, Jung JH, **Kwon SC**, Kim VN<sup>#</sup>, Kim J-S<sup>#</sup> (2021) FAX-RIC enables robust profiling of dynamic RNP complex formation in multicellular organisms in vivo. **Nucleic Acids Research** 49, e28
 * **Kwon SC**<sup>1</sup>, Jang H<sup>1</sup>, Shen S<sup>1</sup>, Baek SC, Kim K, Yang J, Kim J, Kim J-S, Wang S, Shi Y, Li F<sup>#</sup>, Kim VN<sup>#</sup> (2020) ERH facilitates microRNA maturation through the interaction with the N-terminus of DGCR8. **Nucleic Acids Research** 48, 11097-11112
