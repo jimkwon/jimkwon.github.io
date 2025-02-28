@@ -9,7 +9,7 @@ author_profile: true
 <sup>2</sup>: co-second author
 <sup>#</sup>: co-corresponding author
 
-* Wang P, Mak VCY, Rao L, Wu Q, Zhou Y, Sharma R, **Kwon SC** & Cheung LWT (2025) p85β acts as a transcription cofactor and cooperates with BCLAF1 in the nucleus. **Nat Commun** 16, 2042  
+* Wang P, Mak VCY, Rao L, Wu Q, Zhou Y, Sharma R, **Kwon SC** & Cheung LWT (2025) p85β acts as a transcription cofactor and cooperates with BCLAF1 in the nucleus. **Nature Communications** 16, 2042  
 * **Cheng ECK**, **Lam JKC**, **Kwon SC** (2025) Cytosolic CRISPR RNA for efficient application of RNA-targeting CRISPR-Cas systems. **EMBO Reports** https://doi.org/10.1038/s44319-025-00399-4     
 * Kim H, Jang B, Lee D, **Kwon SC**, Lee H (2022) Artificial primary-miRNAs as a platform for simultaneous delivery of siRNA and antisense oligonucleotide for multimodal gene regulation. **Journal of Controlled Release** 349, 983-991
 * Na Y, Kim H, Choi Y, Shin S, Jung JH, **Kwon SC**, Kim VN<sup>#</sup>, Kim J-S<sup>#</sup> (2021) FAX-RIC enables robust profiling of dynamic RNP complex formation in multicellular organisms in vivo. **Nucleic Acids Research** 49, e28
