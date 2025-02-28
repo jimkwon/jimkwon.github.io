@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**26 Feb 2025**  
+Our lab's first paper has been published in EMBO Reports! The plasmids can be obtained at Addgene[https://www.addgene.org/S_Chul_Kwon/].  
+  
 **1 Dec 2024**  
 Jason Li joined our lab. 
   
