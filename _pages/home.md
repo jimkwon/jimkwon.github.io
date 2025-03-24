@@ -5,7 +5,7 @@ excerpt: # ""
 author_profile: true  
 ---
 **WE STUDY RNA-MEDIATED GENE REGULATION MECHANISMS AND DEVELOP TRANSCRIPTOME ENGINEERING TOOLS**  
-![image-center](/assets/images/lablogo2025.png){: .align-center width="500px"}  
+![image-center](/assets/images/lablogo2025.jpg){: .align-center width="500px"}  
 **#RNA therapeutics #RNA editing #Enzyme engineering #High-throughput sequencing**  
   
 > **Previous studies**  
