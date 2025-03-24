@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**12 Mar 2025**  
+Jonathan Kong has successfully passed his PhD thesis defense. Congratulations!  
+  
 **26 Feb 2025**  
 Our lab's first paper has been published in EMBO Reports! The plasmids can be obtained at [addgene.org/S_Chul_Kwon](https://www.addgene.org/S_Chul_Kwon/).  
   
