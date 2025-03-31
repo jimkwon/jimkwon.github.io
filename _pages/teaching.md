@@ -6,6 +6,9 @@ author_profile: true
 
 ---
 ## Home-made YouTube videos for teaching molecular biology 
+{% include video id="sQZRGrq184Q" provider="youtube" %}  
+&nbsp;&nbsp;*Human AGO2 (PDB: 6CBD)*  
+  
 {% include video id="3GPDCRO6liI" provider="youtube" %}  
 &nbsp;&nbsp;*ShCAST (CRISPR-associated transposons) (PDB: 8EA3)*  
 
