@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**28 Apr 2025**  
+Jonathan Kong has been awarded the Dissertation Year Fellowship in recognition of his outstanding PhD thesis.  
+  
 **12 Mar 2025**  
 Jonathan Kong has successfully passed his PhD thesis defense. Congratulations!  
   
