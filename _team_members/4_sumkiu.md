@@ -1,6 +1,6 @@
 ---
-name: Sum Kiu Leung  
-position: Research Assistant  
+name: Summerloretta S.K. Leung  
+position: MPhil Student  
 image: /assets/images/skleung.JPG
 ---
 梁心翹  
