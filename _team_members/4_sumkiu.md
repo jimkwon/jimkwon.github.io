@@ -1,5 +1,5 @@
 ---
-name: Summerloretta S.K. Leung  
+name: Summerloretta Leung  
 position: MPhil Student  
 image: /assets/images/skleung.JPG
 ---
