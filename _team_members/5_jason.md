@@ -1,6 +1,6 @@
 ---
 name: Jason Li  
-position: Research Assistant  
+position: PhD Student  
 image: /assets/images/jasonli.jpeg
 ---
 李應祈    
