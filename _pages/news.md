@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**12 Dec 2025**  
+Joe Lam has been awarded the Oral Presentation Merit Award at 30th Research Postgraduate Symposium.  
+
 **28 Apr 2025**  
 Jonathan Kong has been awarded the Dissertation Year Fellowship in recognition of his outstanding PhD thesis.  
   
