@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo21:
+  - url: "/assets/images/260227 school party-1.jpg"
+    image_path: "/assets/images/260227 school party-1.jpg"
+    alt: "_"
+    title: "27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)"
+  
 photo20:
   - url: "/assets/images/250204-pici.jpg"
     image_path: "/assets/images/250204-pici.jpg"
