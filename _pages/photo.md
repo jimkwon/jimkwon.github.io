@@ -163,6 +163,9 @@ photo1:
     title: "7/9/2020 lab"  
     
 ---
+*2026*  
+{% include gallery id="photo21" caption="27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)" %}  
+
 *2025*  
 {% include gallery id="photo20" caption="4/2/2025 The lab first paper has been accepted in EMBO Reports!" layout="half" %}  
 
