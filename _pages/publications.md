@@ -9,7 +9,7 @@ author_profile: true
 <sup>2</sup>: co-second author
 <sup>#</sup>: co-corresponding author
 
-* **Lam JKC**, **Leung SSK**, **Li JYK**, **Cheng ECK**, **Kwon SC** (2026) Molecular basis of target RNA cleavage by Cas13. Nature Communications accepted  
+* **Lam JKC**, **Leung SSK**, **Li JYK**, **Cheng ECK**, **Kwon SC** (2026) Molecular basis of target RNA cleavage by Cas13. **Nature Communications** accepted  
 * **Kong J**, **Leung SSK**, **Lau CF**, Mok BWY, Weng M, Jauch R, Chen H, **Kwon SC** (2025) A scalable screening platform for discovering predominant miRNA target genes and druggable siRNA sequences. **bioRxiv** [link](https://www.biorxiv.org/content/10.1101/2025.11.17.688664v1)  
 * Wang P, Mak VCY, Rao L, Wu Q, Zhou Y, Sharma R, **Kwon SC**, Cheung LWT (2025) p85β acts as a transcription cofactor and cooperates with BCLAF1 in the nucleus. **Nature Communications** 16, 2042 [link](https://pubmed.ncbi.nlm.nih.gov/40016211/)  
 * **Cheng ECK**, **Lam JKC**, **Kwon SC** (2025) Cytosolic CRISPR RNA for efficient application of RNA-targeting CRISPR-Cas systems. **EMBO Reports** 26, 1891 [link](https://pubmed.ncbi.nlm.nih.gov/40011676/)     
