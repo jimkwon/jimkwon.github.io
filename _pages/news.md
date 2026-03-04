@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**4 Mar 2026**  
+Jason Li has been awarded the Croucher Research Studentships.  
+
 **12 Dec 2025**  
 Joe Lam has been awarded the Oral Presentation Merit Award at 30th Research Postgraduate Symposium.  
 
