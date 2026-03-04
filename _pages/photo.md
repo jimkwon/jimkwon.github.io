@@ -9,12 +9,16 @@ photo21:
     image_path: "/assets/images/260227 school party-1.jpg"
     alt: "_"
     title: "27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)"
-  
+    
 photo20:
   - url: "/assets/images/250204-pici.jpg"
     image_path: "/assets/images/250204-pici.jpg"
     alt: "_"
     title: "4/2/2025 The lab first paper has been accepted in EMBO Reports!"
+  - url: "/assets/images/250327_hkrnaclub.jpg"
+    image_path: "/assets/images/250327_hkrnaclub.jpg"
+    alt: "_"
+    title: "27/3/2025 Presentation at Hong Kong RNA Club"
   
 photo19:
   - url: "/assets/images/240530_RNA_meeting.jpg"
@@ -167,7 +171,7 @@ photo1:
 {% include gallery id="photo21" caption="27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)" %}  
 
 *2025*  
-{% include gallery id="photo20" caption="4/2/2025 The lab first paper has been accepted in EMBO Reports!" layout="half" %}  
+{% include gallery id="photo20" caption="(Left) 4/2/2025 The lab first paper has been accepted in EMBO Reports! (Right) 27/3/2025 Presentation at Hong Kong RNA Club" layout="half" %}  
 
 *2024*  
 {% include gallery id="photo19" caption="30/5/2024 RNA Society Meeting 2024 (Edinburgh) and Visiting Alfredo (Glasgow)" layout="half" %}  
