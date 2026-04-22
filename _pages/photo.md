@@ -10,7 +10,7 @@ photo24:
     alt: "_"
     title: "15/04/2026 Invited Seminar at Columbia University (with Chaolin Zhang)"  
   - url: "/assets/images/2026 Chaolin.jpg"
-    image_path: "/assets/images/2026 Chaolin2.jpg"
+    image_path: "/assets/images/2026 Chaolin.jpg"
     alt: "_"
     title: "15/04/2026 Invited Seminar at Columbia University (with Chaolin Zhang)"
     
