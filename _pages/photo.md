@@ -8,17 +8,17 @@ photo24:
   - url: "/assets/images/2026 Chaolin2.jpg"
     image_path: "/assets/images/2026 Chaolin2.jpg"
     alt: "_"
-    title: "15/04/2026 Invited Seminar at Columbia University (with Chaolin Zhang)"  
+    title: "15/04/2026 Invited Seminar at Columbia University (host: Chaolin Zhang)"  
   - url: "/assets/images/2026 Chaolin.jpg"
     image_path: "/assets/images/2026 Chaolin.jpg"
     alt: "_"
-    title: "15/04/2026 Invited Seminar at Columbia University (with Chaolin Zhang)"
+    title: "15/04/2026 Invited Seminar at Columbia University (host: Chaolin Zhang)"
     
 photo23:
   - url: "/assets/images/2026 Cameron.jpg"
     image_path: "/assets/images/2026 Cameron.jpg"
     alt: "_"
-    title: "13/04/2026 Invited seminar at Princeton University (with Cameron Myhrvold)"  
+    title: "13/04/2026 Invited seminar at Princeton University (host: Cameron Myhrvold)"  
 
 photo22:
   - url: "/assets/images/2026 Hentze.jpg"
@@ -190,8 +190,8 @@ photo1:
     
 ---
 *2026*  
-{% include gallery id="photo24" caption="15/04/2026 Invited Seminar at Columbia University (with Chaolin Zhang)" layout="half" %}  
-{% include gallery id="photo23" caption="13/04/2026 Invited seminar at Princeton University (with Cameron Myhrvold)" layout="half" %}  
+{% include gallery id="photo24" caption="15/04/2026 Invited Seminar at Columbia University (host: Chaolin Zhang)" layout="half" %}  
+{% include gallery id="photo23" caption="13/04/2026 Invited seminar at Princeton University (host: Cameron Myhrvold)" layout="half" %}  
 {% include gallery id="photo22" caption="10/04/2026 With Matthias Hentze at CSHL meeting" layout="half" %}  
 {% include gallery id="photo21" caption="27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)" %}  
 
