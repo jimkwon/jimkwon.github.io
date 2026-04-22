@@ -10,7 +10,7 @@ Chul gave a talk at Columbia University (host: Chaolin Zhang).
 Chul gave a talk at Princeton University (host: Cameron Myhrvold).  
 
 **10 Apr 2026**  
-Chul gave a talk at Cold Spring Harbor Laboratory Meeting (Regulatory & Non-Coding RNAs) at New York.  
+Chul gave a talk at Cold Spring Harbor Laboratory Meeting (Regulatory & Non-Coding RNAs), New York, US.  
 
 **6 Apr 2026**  
 Chul gave a talk at New York Genome Center (host: Neville Sanjana).  
