@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**28 Apr 2026**  
+Chul gave a talk at Hungarian RNA Salon (host: Tamás Orbán; Zoom).  
+
 **15 Apr 2026**  
 Chul gave a talk at Columbia University (host: Chaolin Zhang).  
 
