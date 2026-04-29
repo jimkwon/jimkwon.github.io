@@ -3,6 +3,7 @@ name: Alumni
 position: We appreciate your contribution
 image: /assets/images/thankyou.jpg
 ---
+• Yejun Choi (2025-2026, Final Year Project Student, HKU BBME year 4)  
 • Chun Hei Leung (2024, Summer Internship Student, HKU BBME year 3)  
 • Marcus Liu (2024, Summer Internship Student, HKU BBMS year 1)  
 • Joseph Ho (2022-2023, Technician)  
