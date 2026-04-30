@@ -43,6 +43,10 @@ photo20b:
     image_path: "/assets/images/251211-school-joe.jpg"
     alt: "_"
     title: "11/12/2025 Joe presented at the 10th Anniversary Celebration of our School"
+  - url: "/assets/images/251211-school-joe2.jpg"
+    image_path: "/assets/images/251211-school-joe2.jpg"
+    alt: "_"
+    title: "11/12/2025 Joe presented at the 10th Anniversary Celebration of our School"
     
 photo20:
   - url: "/assets/images/250204-pici.jpg"
@@ -209,7 +213,7 @@ photo1:
 {% include gallery id="photo21" caption="27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)" %}  
 
 *2025*  
-{% include gallery id="photo20b" caption="11/12/2025 Joe presented at the 10th Anniversary Celebration of our School" %}  
+{% include gallery id="photo20b" caption="11/12/2025 Joe presented at the 10th Anniversary Celebration of our School" layout="half" %}  
 {% include gallery id="photo20" caption="(Left) 4/2/2025 The lab first paper has been accepted in EMBO Reports! (Right) 27/3/2025 Presentation at Hong Kong RNA Club" layout="half" %}  
 
 *2024*  
