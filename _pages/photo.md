@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo25:
+  - url: "/assets/images/260430-choi2.jpg"
+    image_path: "/assets/images/260430-choi2.jpg"
+    alt: "_"
+    title: "30/04/2026 Yejun's last day as a Final Year Project student"
+    
 photo24:
   - url: "/assets/images/2026 Chaolin2.jpg"
     image_path: "/assets/images/2026 Chaolin2.jpg"
@@ -31,6 +37,12 @@ photo21:
     image_path: "/assets/images/260227 school party-1.jpg"
     alt: "_"
     title: "27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)"
+
+photo20b:
+  - url: "/assets/images/251211-school-joe.jpg"
+    image_path: "/assets/images/251211-school-joe.jpg"
+    alt: "_"
+    title: "11/12/2025 Joe presented at the 10th Anniversary Celebration of our School"
     
 photo20:
   - url: "/assets/images/250204-pici.jpg"
@@ -190,12 +202,14 @@ photo1:
     
 ---
 *2026*  
+{% include gallery id="photo25" caption="30/04/2026 Yejun's last day as a Final Year Project student" %}  
 {% include gallery id="photo24" caption="15/04/2026 Invited Seminar at Columbia University (host: Chaolin Zhang)" layout="half" %}  
 {% include gallery id="photo23" caption="13/04/2026 Invited seminar at Princeton University (host: Cameron Myhrvold)" layout="half" %}  
 {% include gallery id="photo22" caption="10/04/2026 With Matthias Hentze at CSHL meeting" layout="half" %}  
 {% include gallery id="photo21" caption="27/2/2026 School Spring Celebration (And Joe's paper has been accepted in Nature Communications)" %}  
 
 *2025*  
+{% include gallery id="photo20b" caption="Joe presented at the 10th Anniversary Celebration of our School" %}  
 {% include gallery id="photo20" caption="(Left) 4/2/2025 The lab first paper has been accepted in EMBO Reports! (Right) 27/3/2025 Presentation at Hong Kong RNA Club" layout="half" %}  
 
 *2024*  
