@@ -8,7 +8,7 @@ photo26:
   - url: "/assets/images/260529_yahoo.jpg"
     image_path: "/assets/images/260529_yahoo.jpg"
     alt: "_"
-    title: "29/05/2026 Our press release is on Yahoo news"
+    title: "29/05/2026 Our research is highlighted in Yahoo news"
     
 photo25:
   - url: "/assets/images/260430-choi2.jpg"
@@ -212,7 +212,7 @@ photo1:
     
 ---
 *2026*  
-{% include gallery id="photo26" caption="29/05/2026 Our press release is on Yahoo news" %}  
+{% include gallery id="photo26" caption="29/05/2026 Our research is highlighted in Yahoo news" %}  
 {% include gallery id="photo25" caption="30/04/2026 Yejun's last day as a Final Year Project student" %}  
 {% include gallery id="photo24" caption="15/04/2026 Invited Seminar at Columbia University (host: Chaolin Zhang)" layout="half" %}  
 {% include gallery id="photo23" caption="13/04/2026 Invited seminar at Princeton University (host: Cameron Myhrvold)" layout="half" %}  
