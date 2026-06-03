@@ -5,6 +5,9 @@ author_profile: true
 ---
 **28 May 2026**  
 Our research is highlighted in [HKU Med news](https://www.med.hku.hk/en/news/press/20260528-hkumed-develops-innovative-tool-to-repair-genetic-errors) (and other public news).  
+
+**26 May 2026**  
+Chul gave a talk at 2026 Frontiers in RNA research (organizer: Ying Li).  
   
 **28 Apr 2026**  
 Chul gave a talk at Hungarian RNA Salon (host: Tamás Orbán; Zoom).  
