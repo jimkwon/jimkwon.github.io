@@ -4,7 +4,7 @@ title: "What's new?"
 author_profile: true
 ---
 **22 Jun 2026**  
-Chul gave a talk at Delft University of Technology (host: Chirlmin Joo).  
+Chul gave a talk at Delft University of Technology, Netherlands (host: Chirlmin Joo).  
 
 **18 Jun 2026**  
 Chul gave an invited talk at 20th Microsymposium on RNA Biology, Vienna, Austria.  
