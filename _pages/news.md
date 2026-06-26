@@ -3,8 +3,14 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**22 Jun 2026**  
+Chul gave a talk at Delft University of Technology (host: Chirlmin Joo).  
+
+**18 Jun 2026**  
+Chul gave an invited talk at 20th Microsymposium on RNA Biology, Vienna, Austria.  
+
 **28 May 2026**  
-Our research is highlighted in [HKU Med news](https://www.med.hku.hk/en/news/press/20260528-hkumed-develops-innovative-tool-to-repair-genetic-errors) (and other public news).  
+Our research is highlighted in [HKU Med news](https://www.med.hku.hk/en/news/press/20260528-hkumed-develops-innovative-tool-to-repair-genetic-errors) (and other public news, such as [Phys.org](https://phys.org/news/2026-06-rna-patch-tool-faulty-messages.html) and [EurekAlret!](https://www.eurekalert.org/news-releases/1131922)).  
 
 **26 May 2026**  
 Chul gave a talk at 2026 Frontiers in RNA research (organizer: Ying Li).  
