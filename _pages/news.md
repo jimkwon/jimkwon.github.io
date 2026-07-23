@@ -9,6 +9,9 @@ Chul gave a talk at Cambridge RNA Club, University of Cambridge, UK (Zoom).
 **20 Jul 2026**  
 Chul gave a talk at Rznomics, Korea (Zoom).  
 
+**8 Jul 2026**  
+Chul gave a talk at Summer Symposium, RNA section, Korean Society for Molecular and Cellular Biology, Busan, Korea.  
+
 **22 Jun 2026**  
 Chul gave a talk at Delft University of Technology, Netherlands (host: Chirlmin Joo).  
 
@@ -38,6 +41,9 @@ Chul gave a talk at New York Genome Center (host: Neville Sanjana).
 
 **4 Mar 2026**  
 Jason Li has been awarded the Croucher Research Studentships.  
+
+**12 Dec 2025**  
+Chul gave a talk at Chulalongkorn University, Bangkok, Thailand (host: Preedakorn Chunhacha).    
 
 **12 Dec 2025**  
 Joe Lam has been awarded the Oral Presentation Merit Award at 30th Research Postgraduate Symposium.  
