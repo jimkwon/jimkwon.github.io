@@ -3,6 +3,12 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**22 Jul 2026**  
+Chul gave a talk at Cambridge RNA Club, University of Cambridge, UK (Zoom).  
+
+**20 Jul 2026**  
+Chul gave a talk at Rznomics, Korea (Zoom).  
+
 **22 Jun 2026**  
 Chul gave a talk at Delft University of Technology, Netherlands (host: Chirlmin Joo).  
 
