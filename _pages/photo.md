@@ -8,7 +8,7 @@ photo27:
   - url: "/assets/images/260722_cambridge.jpg"
     image_path: "/assets/images/260722_cambridge.jpg"
     alt: "_"
-    title: "22/07/2026 Chul gave a talk at Cambridge RNA Club"
+    title: "22/07/2026 Presentation at Cambridge RNA Club"
 
 photo26:
   - url: "/assets/images/260529_yahoo.jpg"
@@ -218,7 +218,7 @@ photo1:
     
 ---
 *2026*  
-{% include gallery id="photo27" caption="22/07/2026 Chul gave a talk at Cambridge RNA Club" %}  
+{% include gallery id="photo27" caption="22/07/2026 Presentation at Cambridge RNA Club" %}  
 {% include gallery id="photo26" caption="29/05/2026 Our research is highlighted in Yahoo news" %}  
 {% include gallery id="photo25" caption="30/04/2026 Yejun's last day as a Final Year Project student" %}  
 {% include gallery id="photo24" caption="15/04/2026 Invited Seminar at Columbia University (host: Chaolin Zhang)" layout="half" %}  
