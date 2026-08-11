@@ -8,8 +8,8 @@ author_profile: true
 We aim to understand RNA-based gene expression regulation mechanisms and to develop new technologies that can be used in biology and medicine. We apply an integrative approach by combining RNA-targeting CRISPR-Cas systems, high-throughput sequencing, and recombinant protein purification.  
   
 ## ON-GOING PROJECTS
-* RNA segment editing with Cas13 (See Lam et al. 2026)   
-* Transcriptome-wide RNA accessibility mapping (See Kong and Leung et al. 2026)   
+* RNA segment editing with Cas13 (Related to Lam et al. 2026)   
+* Transcriptome-wide RNA accessibility mapping (Related to Kong and Leung et al. 2026)   
 * High-throughput RNA quantitation methods  
   
     
