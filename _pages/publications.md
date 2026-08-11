@@ -9,8 +9,8 @@ author_profile: true
 <sup>2</sup>: co-second author
 <sup>#</sup>: co-corresponding author
 
+* **Kong J**<sup>1</sup>, **Leung SSK**<sup>1</sup>, **Wu G**, **Lau CF**, Mok BWY, Weng M, Jauch R, Chen H, **Kwon SC** (2026) High-resolution RNA knockdown profiles of small RNA and Cas13 systems. **bioRxiv** [link](https://www.biorxiv.org/content/10.1101/2025.11.17.688664v2)  
 * **Lam JKC**, **Leung SSK**, **Li JYK**, **Cheng ECK**, **Kwon SC** (2026) Molecular basis of target RNA cleavage by Cas13. **Nature Communications** [link](https://doi.org/10.1038/s41467-026-71578-7)  
-* **Kong J**, **Leung SSK**, **Lau CF**, Mok BWY, Weng M, Jauch R, Chen H, **Kwon SC** (2025) A scalable screening platform for discovering predominant miRNA target genes and druggable siRNA sequences. **bioRxiv** [link](https://www.biorxiv.org/content/10.1101/2025.11.17.688664v1)  
 * Wang P, Mak VCY, Rao L, Wu Q, Zhou Y, Sharma R, **Kwon SC**, Cheung LWT (2025) p85β acts as a transcription cofactor and cooperates with BCLAF1 in the nucleus. **Nature Communications** 16, 2042 [link](https://pubmed.ncbi.nlm.nih.gov/40016211/)  
 * **Cheng ECK**, **Lam JKC**, **Kwon SC** (2025) Cytosolic CRISPR RNA for efficient application of RNA-targeting CRISPR-Cas systems. **EMBO Reports** 26, 1891 [link](https://pubmed.ncbi.nlm.nih.gov/40011676/)     
 * Kim H, Jang B, Lee D, **Kwon SC**, Lee H (2022) Artificial primary-miRNAs as a platform for simultaneous delivery of siRNA and antisense oligonucleotide for multimodal gene regulation. **Journal of Controlled Release** 349, 983-991 [link](https://pubmed.ncbi.nlm.nih.gov/35931211/)
