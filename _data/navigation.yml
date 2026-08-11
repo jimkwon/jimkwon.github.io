@@ -18,6 +18,9 @@ main:
   - title: "Teaching"
     url: /teaching/   
 
+  - title: "Resource"
+    url: /resource/  
+    
   - title: "News"
     url: /news/  
     
