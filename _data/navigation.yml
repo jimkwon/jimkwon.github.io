@@ -15,9 +15,6 @@ main:
   - title: "Photos"
     url: /photo/   
 
-  - title: "Teaching"
-    url: /teaching/   
-
   - title: "Resource"
     url: /resource/  
     
