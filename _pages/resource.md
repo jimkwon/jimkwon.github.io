@@ -1,6 +1,6 @@
 ---
 permalink: /resource/
-title: "Resource"
+title: "Resources"
 excerpt: # ""
 author_profile: true
 
