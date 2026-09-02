@@ -3,6 +3,9 @@ permalink: /news/
 title: "What's new?"
 author_profile: true
 ---
+**1 Sep 2026**  
+Brian joined the lab.  
+
 **22 Jul 2026**  
 Chul gave a talk at Cambridge RNA Club, University of Cambridge, UK (Zoom).  
 
