@@ -1,9 +1,8 @@
 ---
-name: Jason Li  
-position: PhD Student  
-image: /assets/images/jasonli.jpeg
+name: Brian Wu  
+position: MPhil Student  
+image: /assets/images/260902_brianwu.jpg
 ---
-李應祈    
-u3008324 at connect.hku.hk  
-• MPhil, The University of Hong Kong, Hong Kong, China  
-• BSc, The Hong Kong University of Science and Technology, Hong Kong, China  
+吴国嘏    
+wuguojia2003 at connect.hku.hk  
+• BMed, Tianjin Medical University, China  
