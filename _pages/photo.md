@@ -4,6 +4,12 @@ title: "Memory of the Lab"
 excerpt: # ""
 author_profile: true
 
+photo28:
+  - url: "/assets/images/261105lunch.jpg"
+    image_path: "/assets/images/261105lunch.jpg"
+    alt: "_"
+    title: "05/11/2026 Celebrating a peaceful day"
+    
 photo27:
   - url: "/assets/images/260722_cambridge.jpg"
     image_path: "/assets/images/260722_cambridge.jpg"
@@ -218,6 +224,7 @@ photo1:
     
 ---
 *2026*  
+{% include gallery id="photo28" caption="05/11/2026 Celebrating a peaceful day" %}  
 {% include gallery id="photo27" caption="22/07/2026 Presentation at Cambridge RNA Club" %}  
 {% include gallery id="photo26" caption="29/05/2026 Our research is highlighted in Yahoo news" %}  
 {% include gallery id="photo25" caption="30/04/2026 Yejun's last day as a Final Year Project student" %}  
